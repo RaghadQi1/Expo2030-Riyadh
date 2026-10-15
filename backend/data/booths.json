@@ -1,0 +1,854 @@
+[
+  {
+    "booth_id": "B001",
+    "name_en": "Future AI Lab",
+    "name_ar": "مختبر الذكاء الاصطناعي للمستقبل",
+    "category": "AI & Technology",
+    "description_en": "A fictional Expo demo zone focused on AI, Machine Learning, Robotics. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على AI, Machine Learning, Robotics، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "AI",
+      "Machine Learning",
+      "Robotics",
+      "Data",
+      "Future Technology",
+      "Innovation"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 100,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B002",
+    "name_en": "Robotics Arena",
+    "name_ar": "ساحة الروبوتات",
+    "category": "AI & Technology",
+    "description_en": "A fictional Expo demo zone focused on AI, Machine Learning, Robotics. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على AI, Machine Learning, Robotics، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "AI",
+      "Machine Learning",
+      "Robotics",
+      "Data",
+      "Future Technology",
+      "Innovation"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 210,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B003",
+    "name_en": "Data & Analytics Hub",
+    "name_ar": "مركز البيانات والتحليلات",
+    "category": "AI & Technology",
+    "description_en": "A fictional Expo demo zone focused on AI, Machine Learning, Robotics. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على AI, Machine Learning, Robotics، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "AI",
+      "Machine Learning",
+      "Robotics",
+      "Data",
+      "Future Technology",
+      "Innovation"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 320,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B004",
+    "name_en": "Digital Innovation Lab",
+    "name_ar": "مختبر الابتكار الرقمي",
+    "category": "AI & Technology",
+    "description_en": "A fictional Expo demo zone focused on AI, Machine Learning, Robotics. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على AI, Machine Learning, Robotics، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "AI",
+      "Machine Learning",
+      "Robotics",
+      "Data",
+      "Future Technology",
+      "Innovation"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 430,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B005",
+    "name_en": "Green Energy Zone",
+    "name_ar": "منطقة الطاقة الخضراء",
+    "category": "Sustainability",
+    "description_en": "A fictional Expo demo zone focused on Sustainability, Climate, Renewable Energy. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Sustainability, Climate, Renewable Energy، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Sustainability",
+      "Climate",
+      "Renewable Energy",
+      "Green Cities",
+      "Environment",
+      "Water"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 540,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B006",
+    "name_en": "Future Water Lab",
+    "name_ar": "مختبر المياه المستقبلية",
+    "category": "Sustainability",
+    "description_en": "A fictional Expo demo zone focused on Sustainability, Climate, Renewable Energy. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Sustainability, Climate, Renewable Energy، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Sustainability",
+      "Climate",
+      "Renewable Energy",
+      "Green Cities",
+      "Environment",
+      "Water"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 650,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B007",
+    "name_en": "Circular Economy Hub",
+    "name_ar": "مركز الاقتصاد الدائري",
+    "category": "Sustainability",
+    "description_en": "A fictional Expo demo zone focused on Sustainability, Climate, Renewable Energy. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Sustainability, Climate, Renewable Energy، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Sustainability",
+      "Climate",
+      "Renewable Energy",
+      "Green Cities",
+      "Environment",
+      "Water"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 760,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B008",
+    "name_en": "Green Cities Pavilion",
+    "name_ar": "جناح المدن الخضراء",
+    "category": "Sustainability",
+    "description_en": "A fictional Expo demo zone focused on Sustainability, Climate, Renewable Energy. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Sustainability, Climate, Renewable Energy، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Sustainability",
+      "Climate",
+      "Renewable Energy",
+      "Green Cities",
+      "Environment",
+      "Water"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 870,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B009",
+    "name_en": "Smart City Command Center",
+    "name_ar": "مركز قيادة المدينة الذكية",
+    "category": "Smart Cities",
+    "description_en": "A fictional Expo demo zone focused on Smart Cities, IoT, Urban Planning. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Smart Cities, IoT, Urban Planning، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Smart Cities",
+      "IoT",
+      "Urban Planning",
+      "Mobility",
+      "Digital Infrastructure"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 100,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B010",
+    "name_en": "Connected City Lab",
+    "name_ar": "مختبر المدينة المتصلة",
+    "category": "Smart Cities",
+    "description_en": "A fictional Expo demo zone focused on Smart Cities, IoT, Urban Planning. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Smart Cities, IoT, Urban Planning، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Smart Cities",
+      "IoT",
+      "Urban Planning",
+      "Mobility",
+      "Digital Infrastructure"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 210,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B011",
+    "name_en": "Urban Future Studio",
+    "name_ar": "استوديو مستقبل المدن",
+    "category": "Smart Cities",
+    "description_en": "A fictional Expo demo zone focused on Smart Cities, IoT, Urban Planning. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Smart Cities, IoT, Urban Planning، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Smart Cities",
+      "IoT",
+      "Urban Planning",
+      "Mobility",
+      "Digital Infrastructure"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 320,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B012",
+    "name_en": "Digital Infrastructure Hub",
+    "name_ar": "مركز البنية التحتية الرقمية",
+    "category": "Smart Cities",
+    "description_en": "A fictional Expo demo zone focused on Smart Cities, IoT, Urban Planning. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Smart Cities, IoT, Urban Planning، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Smart Cities",
+      "IoT",
+      "Urban Planning",
+      "Mobility",
+      "Digital Infrastructure"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 430,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B013",
+    "name_en": "Saudi Heritage Pavilion",
+    "name_ar": "جناح التراث السعودي",
+    "category": "Culture",
+    "description_en": "A fictional Expo demo zone focused on Culture, Heritage, Arts. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Culture, Heritage, Arts، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Culture",
+      "Heritage",
+      "Arts",
+      "Saudi Culture",
+      "Crafts",
+      "History"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 540,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B014",
+    "name_en": "Saudi Arts House",
+    "name_ar": "بيت الفنون السعودية",
+    "category": "Culture",
+    "description_en": "A fictional Expo demo zone focused on Culture, Heritage, Arts. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Culture, Heritage, Arts، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Culture",
+      "Heritage",
+      "Arts",
+      "Saudi Culture",
+      "Crafts",
+      "History"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 650,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B015",
+    "name_en": "Crafts & Design Market",
+    "name_ar": "سوق الحرف والتصميم",
+    "category": "Culture",
+    "description_en": "A fictional Expo demo zone focused on Culture, Heritage, Arts. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Culture, Heritage, Arts، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Culture",
+      "Heritage",
+      "Arts",
+      "Saudi Culture",
+      "Crafts",
+      "History"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 760,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B016",
+    "name_en": "Future Museum Experience",
+    "name_ar": "تجربة المتحف المستقبلي",
+    "category": "Culture",
+    "description_en": "A fictional Expo demo zone focused on Culture, Heritage, Arts. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Culture, Heritage, Arts، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Culture",
+      "Heritage",
+      "Arts",
+      "Saudi Culture",
+      "Crafts",
+      "History"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 870,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B017",
+    "name_en": "Startup Founders Hub",
+    "name_ar": "مركز رواد الأعمال",
+    "category": "Business",
+    "description_en": "A fictional Expo demo zone focused on Business, Entrepreneurship, Investment. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Business, Entrepreneurship, Investment، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Business",
+      "Entrepreneurship",
+      "Investment",
+      "Startups",
+      "Economy",
+      "Future Jobs"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 100,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B018",
+    "name_en": "Future Investment Forum",
+    "name_ar": "منتدى الاستثمار المستقبلي",
+    "category": "Business",
+    "description_en": "A fictional Expo demo zone focused on Business, Entrepreneurship, Investment. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Business, Entrepreneurship, Investment، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Business",
+      "Entrepreneurship",
+      "Investment",
+      "Startups",
+      "Economy",
+      "Future Jobs"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 210,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B019",
+    "name_en": "Future Jobs Center",
+    "name_ar": "مركز وظائف المستقبل",
+    "category": "Business",
+    "description_en": "A fictional Expo demo zone focused on Business, Entrepreneurship, Investment. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Business, Entrepreneurship, Investment، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Business",
+      "Entrepreneurship",
+      "Investment",
+      "Startups",
+      "Economy",
+      "Future Jobs"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 320,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B020",
+    "name_en": "Entrepreneurship Studio",
+    "name_ar": "استوديو ريادة الأعمال",
+    "category": "Business",
+    "description_en": "A fictional Expo demo zone focused on Business, Entrepreneurship, Investment. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Business, Entrepreneurship, Investment، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Business",
+      "Entrepreneurship",
+      "Investment",
+      "Startups",
+      "Economy",
+      "Future Jobs"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 430,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B021",
+    "name_en": "Smart Mobility Lab",
+    "name_ar": "مختبر التنقل الذكي",
+    "category": "Mobility",
+    "description_en": "A fictional Expo demo zone focused on Mobility, Transport, Electric Vehicles. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Mobility, Transport, Electric Vehicles، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Mobility",
+      "Transport",
+      "Electric Vehicles",
+      "Autonomous Vehicles",
+      "Logistics"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 540,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B022",
+    "name_en": "Electric Mobility Zone",
+    "name_ar": "منطقة التنقل الكهربائي",
+    "category": "Mobility",
+    "description_en": "A fictional Expo demo zone focused on Mobility, Transport, Electric Vehicles. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Mobility, Transport, Electric Vehicles، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Mobility",
+      "Transport",
+      "Electric Vehicles",
+      "Autonomous Vehicles",
+      "Logistics"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 650,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B023",
+    "name_en": "Autonomous Transport Arena",
+    "name_ar": "ساحة النقل الذاتي",
+    "category": "Mobility",
+    "description_en": "A fictional Expo demo zone focused on Mobility, Transport, Electric Vehicles. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Mobility, Transport, Electric Vehicles، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Mobility",
+      "Transport",
+      "Electric Vehicles",
+      "Autonomous Vehicles",
+      "Logistics"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 760,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B024",
+    "name_en": "Logistics Innovation Hub",
+    "name_ar": "مركز ابتكار الخدمات اللوجستية",
+    "category": "Mobility",
+    "description_en": "A fictional Expo demo zone focused on Mobility, Transport, Electric Vehicles. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Mobility, Transport, Electric Vehicles، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Mobility",
+      "Transport",
+      "Electric Vehicles",
+      "Autonomous Vehicles",
+      "Logistics"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 870,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B025",
+    "name_en": "Digital Health Lab",
+    "name_ar": "مختبر الصحة الرقمية",
+    "category": "Health & Wellbeing",
+    "description_en": "A fictional Expo demo zone focused on Health, Wellbeing, Healthcare Technology. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Health, Wellbeing, Healthcare Technology، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Health",
+      "Wellbeing",
+      "Healthcare Technology",
+      "Sports",
+      "Healthy Cities"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 100,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B026",
+    "name_en": "Healthy Cities Pavilion",
+    "name_ar": "جناح المدن الصحية",
+    "category": "Health & Wellbeing",
+    "description_en": "A fictional Expo demo zone focused on Health, Wellbeing, Healthcare Technology. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Health, Wellbeing, Healthcare Technology، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Health",
+      "Wellbeing",
+      "Healthcare Technology",
+      "Sports",
+      "Healthy Cities"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 210,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B027",
+    "name_en": "Sports Technology Zone",
+    "name_ar": "منطقة التقنية الرياضية",
+    "category": "Health & Wellbeing",
+    "description_en": "A fictional Expo demo zone focused on Health, Wellbeing, Healthcare Technology. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Health, Wellbeing, Healthcare Technology، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Health",
+      "Wellbeing",
+      "Healthcare Technology",
+      "Sports",
+      "Healthy Cities"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 320,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B028",
+    "name_en": "Wellbeing Experience",
+    "name_ar": "تجربة جودة الحياة",
+    "category": "Health & Wellbeing",
+    "description_en": "A fictional Expo demo zone focused on Health, Wellbeing, Healthcare Technology. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Health, Wellbeing, Healthcare Technology، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Health",
+      "Wellbeing",
+      "Healthcare Technology",
+      "Sports",
+      "Healthy Cities"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 430,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B029",
+    "name_en": "Future Learning Lab",
+    "name_ar": "مختبر التعلم المستقبلي",
+    "category": "Education",
+    "description_en": "A fictional Expo demo zone focused on Education, EdTech, Skills. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Education, EdTech, Skills، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Education",
+      "EdTech",
+      "Skills",
+      "Youth",
+      "Learning",
+      "Research"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 540,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B030",
+    "name_en": "EdTech Innovation Hub",
+    "name_ar": "مركز ابتكار تقنيات التعليم",
+    "category": "Education",
+    "description_en": "A fictional Expo demo zone focused on Education, EdTech, Skills. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Education, EdTech, Skills، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Education",
+      "EdTech",
+      "Skills",
+      "Youth",
+      "Learning",
+      "Research"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 650,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B031",
+    "name_en": "Youth Skills Studio",
+    "name_ar": "استوديو مهارات الشباب",
+    "category": "Education",
+    "description_en": "A fictional Expo demo zone focused on Education, EdTech, Skills. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Education, EdTech, Skills، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Education",
+      "EdTech",
+      "Skills",
+      "Youth",
+      "Learning",
+      "Research"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 760,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  },
+  {
+    "booth_id": "B032",
+    "name_en": "Research & Knowledge Center",
+    "name_ar": "مركز البحث والمعرفة",
+    "category": "Education",
+    "description_en": "A fictional Expo demo zone focused on Education, EdTech, Skills. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Education, EdTech, Skills، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Education",
+      "EdTech",
+      "Skills",
+      "Youth",
+      "Learning",
+      "Research"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 870,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS / editors
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+
+# Secrets — never commit
+*.xcconfig.local
+Secrets.plist
+.env

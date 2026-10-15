@@ -1,0 +1,277 @@
+{
+  "districts": [
+    {
+      "name": "التقنية التحويلية",
+      "sub": "Transformational Technology",
+      "color": "#c9daf1",
+      "start": 0
+    },
+    {
+      "name": "الحلول المستدامة",
+      "sub": "Sustainable Solutions",
+      "color": "#d3e7c1",
+      "start": 2
+    },
+    {
+      "name": "مجتمعات مزدهرة",
+      "sub": "Prosperous People",
+      "color": "#efd6ba",
+      "start": 4
+    },
+    {
+      "name": "التجارب والثقافة",
+      "sub": "منطقة تجريبية مستوحاة",
+      "color": "#d9cdea",
+      "start": 6
+    },
+    {
+      "name": "الابتكار والتلاقي",
+      "sub": "منطقة تجريبية مستوحاة",
+      "color": "#f0d1cd",
+      "start": 8
+    }
+  ],
+  "locations": [
+    {
+      "id": "hub",
+      "name": "الساحة المركزية",
+      "kind": "service",
+      "icon": "✦",
+      "node": "0,0",
+      "desc": "ساحة اللقاء المركزية: نقطة تجمع ومحور التنقل بين الأحياء."
+    },
+    {
+      "id": "sa",
+      "name": "جناح السعودية",
+      "kind": "pavilion",
+      "icon": "🇸🇦",
+      "node": "1,0",
+      "district": "التقنية التحويلية",
+      "size": "xl",
+      "desc": "الجناح الأبرز في النسخة التجريبية، مع وصول مباشر إلى خريطة داخلية."
+    },
+    {
+      "id": "jp",
+      "name": "جناح اليابان",
+      "kind": "pavilion",
+      "icon": "🇯🇵",
+      "node": "2,1",
+      "district": "التقنية التحويلية",
+      "size": "lg",
+      "desc": "جناح افتراضي يركز على الروبوتات والابتكار."
+    },
+    {
+      "id": "kr",
+      "name": "جناح كوريا الجنوبية",
+      "kind": "pavilion",
+      "icon": "🇰🇷",
+      "node": "2,2",
+      "district": "التقنية التحويلية",
+      "size": "md",
+      "desc": "تجربة افتراضية للتقنيات الرقمية والصناعات الإبداعية."
+    },
+    {
+      "id": "sg",
+      "name": "جناح سنغافورة",
+      "kind": "pavilion",
+      "icon": "🇸🇬",
+      "node": "2,3",
+      "district": "الحلول المستدامة",
+      "size": "md",
+      "desc": "مفهوم افتراضي لمدن المستقبل الخضراء."
+    },
+    {
+      "id": "ae",
+      "name": "جناح الإمارات",
+      "kind": "pavilion",
+      "icon": "🇦🇪",
+      "node": "2,4",
+      "district": "مجتمعات مزدهرة",
+      "size": "lg",
+      "desc": "تجربة افتراضية تربط بين الإنسان والابتكار."
+    },
+    {
+      "id": "de",
+      "name": "جناح ألمانيا",
+      "kind": "pavilion",
+      "icon": "🇩🇪",
+      "node": "2,5",
+      "district": "مجتمعات مزدهرة",
+      "size": "md",
+      "desc": "عرض افتراضي للاستدامة والهندسة والتصنيع."
+    },
+    {
+      "id": "fr",
+      "name": "جناح فرنسا",
+      "kind": "pavilion",
+      "icon": "🇫🇷",
+      "node": "2,6",
+      "district": "التجارب والثقافة",
+      "size": "md",
+      "desc": "عرض افتراضي للفنون والعلوم والتصميم."
+    },
+    {
+      "id": "it",
+      "name": "جناح إيطاليا",
+      "kind": "pavilion",
+      "icon": "🇮🇹",
+      "node": "2,7",
+      "district": "التجارب والثقافة",
+      "size": "md",
+      "desc": "عرض افتراضي للتراث والحرف والتصميم."
+    },
+    {
+      "id": "cn",
+      "name": "جناح الصين",
+      "kind": "pavilion",
+      "icon": "🇨🇳",
+      "node": "2,8",
+      "district": "الابتكار والتلاقي",
+      "size": "lg",
+      "desc": "موقع افتراضي لتجارب الصناعة والتقنية."
+    },
+    {
+      "id": "uk",
+      "name": "جناح المملكة المتحدة",
+      "kind": "pavilion",
+      "icon": "🇬🇧",
+      "node": "2,9",
+      "district": "الابتكار والتلاقي",
+      "size": "md",
+      "desc": "جناح افتراضي للأفكار المستقبلية والإبداع."
+    },
+    {
+      "id": "us",
+      "name": "جناح الولايات المتحدة",
+      "kind": "pavilion",
+      "icon": "🇺🇸",
+      "node": "3,1",
+      "district": "التقنية التحويلية",
+      "size": "md",
+      "desc": "جناح دولي في الحلقة الخارجية للتجربة."
+    },
+    {
+      "id": "eg",
+      "name": "جناح مصر",
+      "kind": "pavilion",
+      "icon": "🇪🇬",
+      "node": "3,5",
+      "district": "مجتمعات مزدهرة",
+      "size": "md",
+      "desc": "جناح دولي خارجي بتجربة حضارية وثقافية."
+    },
+    {
+      "id": "coffee",
+      "name": "مقهى",
+      "kind": "service",
+      "icon": "☕",
+      "node": "1,2",
+      "district": "الحلول المستدامة",
+      "size": "sm",
+      "desc": "منطقة استراحة سريعة للزوار."
+    },
+    {
+      "id": "garden",
+      "name": "حدائق وممرات خضراء",
+      "kind": "service",
+      "icon": "🌿",
+      "node": "1,3",
+      "district": "الحلول المستدامة",
+      "size": "sm",
+      "desc": "مساحات خضراء واضحة تعزز الراحة البصرية والتنقل المظلل."
+    },
+    {
+      "id": "food",
+      "name": "منطقة المطاعم",
+      "kind": "service",
+      "icon": "🍽️",
+      "node": "1,5",
+      "district": "مجتمعات مزدهرة",
+      "size": "sm",
+      "desc": "خدمة مطاعم في موقع متوسط يسهل الوصول إليه من أكثر من حي."
+    },
+    {
+      "id": "firstaid",
+      "name": "إسعافات أولية",
+      "kind": "service",
+      "icon": "✚",
+      "node": "1,6",
+      "district": "التجارب والثقافة",
+      "size": "sm",
+      "desc": "مركز خدمة صحي في موقع متوسط."
+    },
+    {
+      "id": "prayer",
+      "name": "مصلى",
+      "kind": "service",
+      "icon": "🕌",
+      "node": "1,7",
+      "district": "التجارب والثقافة",
+      "size": "sm",
+      "desc": "خدمة الزوار للصلاة في موقع قريب من الممرات الرئيسية."
+    },
+    {
+      "id": "wc",
+      "name": "دورات المياه",
+      "kind": "service",
+      "icon": "🚻",
+      "node": "1,8",
+      "district": "الابتكار والتلاقي",
+      "size": "sm",
+      "desc": "خدمة مساندة في نطاق سهل الوصول."
+    },
+    {
+      "id": "parking",
+      "name": "مواقف الزوار P1",
+      "kind": "service",
+      "icon": "🅿️",
+      "node": "3,7",
+      "district": "الابتكار والتلاقي",
+      "size": "sm",
+      "desc": "مواقف سيارات تجريبية قرب بوابة المشاة، مع مسار يصل للممر الخارجي."
+    },
+    {
+      "id": "gate1",
+      "name": "بوابة الدخول 1",
+      "kind": "service",
+      "icon": "1",
+      "node": "3,0",
+      "size": "sm",
+      "desc": "بوابة دخول تجريبية أولى."
+    },
+    {
+      "id": "gate2",
+      "name": "بوابة الدخول 2",
+      "kind": "service",
+      "icon": "2",
+      "node": "3,4",
+      "size": "sm",
+      "desc": "بوابة دخول تجريبية ثانية."
+    },
+    {
+      "id": "gate3",
+      "name": "بوابة الدخول 3",
+      "kind": "service",
+      "icon": "3",
+      "node": "3,8",
+      "size": "sm",
+      "desc": "بوابة دخول تجريبية ثالثة."
+    }
+  ],
+  "metresPerMapUnit": 3.1,
+  "assumedWalkingSpeedMetresPerMinute": 78,
+  "routeNetwork": {
+    "rings": [
+      0,
+      118,
+      232,
+      330
+    ],
+    "radialSectors": 10,
+    "geometry": "radial ring graph",
+    "distanceModel": "Euclidean edge length × metresPerMapUnit",
+    "coordinateSystem": "conceptual SVG (0–1000,0–700)",
+    "accuracy": "simulated—not geographic measurements"
+  },
+  "provenance": "All placements, parking, gardens, distances and facility locations are mock data for a hackathon demo."
+}

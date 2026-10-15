@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- 05.01 Launch — Native Launch Screen: brand green + white logo -->
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>LaunchBackground</string>
+		<key>UIImageName</key>
+		<string>launch-logo</string>
+		<key>UIImageRespectsSafeAreaInsets</key>
+		<true/>
+	</dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>ar</string>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<true/>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>mailto</string>
+	</array>
+	<!-- Local Flask map API (iOS Simulator -> Mac). Use HTTPS for deployment. -->
+	<key>EXPO_API_MODE</key>
+	<string>live</string>
+	<key>API_BASE_URL</key>
+	<string>http://127.0.0.1:8001</string>
+	<key>EXPO_API_BASE_URL</key>
+	<string>http://127.0.0.1:8001</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<!-- Permits local development HTTP; use HTTPS in production. -->
+		<key>NSAllowsArbitraryLoads</key><true/>
+		<key>NSAllowsLocalNetworking</key><true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>127.0.0.1</key>
+			<dict><key>NSExceptionAllowsInsecureHTTPLoads</key><true/></dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

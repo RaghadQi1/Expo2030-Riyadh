@@ -1,0 +1,21 @@
+{
+  "status": "simulated",
+  "center": [
+    500,
+    350
+  ],
+  "radii_svg_units": [
+    0,
+    118,
+    232,
+    330
+  ],
+  "sectors": 10,
+  "node_format": "ring,slot",
+  "start_node": "3,8",
+  "metres_per_map_unit": 3.1,
+  "walking_speed_m_per_min": 78,
+  "algorithm": "Dijkstra shortest path (external); indoor waypoint routing is simple straight segments",
+  "topology": "Generated procedurally in app.js: rings, adjacent slots, radial connectors and selective diagonal connectors; see app.js for exact graph construction",
+  "accuracy_warning": "These values do not represent official Expo walkways, lengths, or georeferenced coordinates."
+}

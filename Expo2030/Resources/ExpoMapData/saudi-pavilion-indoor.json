@@ -1,0 +1,201 @@
+{
+  "status": "concept only, not official Expo building plan",
+  "floor_count": 2,
+  "entrance": [
+    380,
+    486
+  ],
+  "indoor_meters_per_svg_unit": 0.26,
+  "booth_ids": [
+    "B013",
+    "B014",
+    "B015",
+    "B016"
+  ],
+  "spaces": [
+    {
+      "id": "B013",
+      "kind": "booth",
+      "floor": 1,
+      "x": 212,
+      "y": 176,
+      "via": [
+        380,
+        250
+      ],
+      "door": [
+        280,
+        228
+      ],
+      "linked_booth_id": "B013"
+    },
+    {
+      "id": "B014",
+      "kind": "booth",
+      "floor": 1,
+      "x": 548,
+      "y": 176,
+      "via": [
+        380,
+        250
+      ],
+      "door": [
+        482,
+        228
+      ],
+      "linked_booth_id": "B014"
+    },
+    {
+      "id": "B015",
+      "kind": "booth",
+      "floor": 2,
+      "x": 212,
+      "y": 332,
+      "via": [
+        380,
+        332
+      ],
+      "door": [
+        282,
+        332
+      ],
+      "linked_booth_id": "B015"
+    },
+    {
+      "id": "B016",
+      "kind": "booth",
+      "floor": 2,
+      "x": 548,
+      "y": 332,
+      "via": [
+        380,
+        332
+      ],
+      "door": [
+        478,
+        332
+      ],
+      "linked_booth_id": "B016"
+    },
+    {
+      "id": "stage",
+      "kind": "service",
+      "floor": 1,
+      "x": 380,
+      "y": 116,
+      "via": [
+        380,
+        214
+      ],
+      "door": [
+        380,
+        170
+      ]
+    },
+    {
+      "id": "cafe",
+      "kind": "service",
+      "floor": 1,
+      "x": 128,
+      "y": 462,
+      "via": [
+        252,
+        428
+      ],
+      "door": [
+        194,
+        428
+      ]
+    },
+    {
+      "id": "prayer",
+      "kind": "service",
+      "floor": 2,
+      "x": 632,
+      "y": 462,
+      "via": [
+        506,
+        428
+      ],
+      "door": [
+        566,
+        428
+      ]
+    },
+    {
+      "id": "wc",
+      "kind": "service",
+      "floor": 1,
+      "x": 302,
+      "y": 462,
+      "via": [
+        334,
+        428
+      ],
+      "door": [
+        334,
+        428
+      ]
+    },
+    {
+      "id": "lift1",
+      "kind": "service",
+      "floor": 1,
+      "x": 380,
+      "y": 367,
+      "via": [
+        380,
+        406
+      ],
+      "door": [
+        380,
+        393
+      ]
+    },
+    {
+      "id": "lift2",
+      "kind": "service",
+      "floor": 2,
+      "x": 380,
+      "y": 367,
+      "via": [
+        380,
+        406
+      ],
+      "door": [
+        380,
+        393
+      ]
+    },
+    {
+      "id": "exit",
+      "kind": "service",
+      "floor": 1,
+      "x": 458,
+      "y": 462,
+      "via": [
+        426,
+        428
+      ],
+      "door": [
+        426,
+        428
+      ]
+    }
+  ],
+  "qr_location_proposals": [
+    {
+      "id": "sa-floor-1",
+      "floor": 1,
+      "x": 380,
+      "y": 486
+    },
+    {
+      "id": "sa-floor-2",
+      "floor": 2,
+      "x": 380,
+      "y": 367
+    }
+  ],
+  "qr_status": "proposal only—not implemented scanning"
+}

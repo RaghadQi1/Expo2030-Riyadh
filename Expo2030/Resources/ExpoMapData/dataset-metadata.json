@@ -1,0 +1,23 @@
+{
+  "dataset_type": "Synthetic hackathon prototype",
+  "source": "booths.json and events.json from user uploads; assignments, pavilion locations, and geometry from latest demo project; gates and floor datasets extracted/adapted from project",
+  "booth_count": 32,
+  "event_count": 96,
+  "pavilion_count": 12,
+  "assigned_booth_count": 32,
+  "files": [
+    "assignments.json",
+    "booths-with-events.json",
+    "booths.json",
+    "events.json",
+    "expo-map-data.json",
+    "gates.json",
+    "navigation-network.json",
+    "saudi-pavilion-indoor.json"
+  ],
+  "notes": [
+    "No real GPS coordinates, live congestion, or actual Expo floorplans are supplied.",
+    "Booth event times are demos without dates.",
+    "Indoor floor assignment and spatial coordinates are prototype only."
+  ]
+}

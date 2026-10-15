@@ -1,0 +1,47 @@
+{
+  "source": "EXPO_SPECIFIC_SYNTHETIC_CORRIDOR_SIMULATION",
+  "provenance": "events.json + saudi-pavilion-indoor.json + exported Swift indoor_edges.csv",
+  "is_real_visitor_data": false,
+  "target": "simulated per-corridor travel-time multiplier (regression)",
+  "training_rows": 16000,
+  "test_rows": 4000,
+  "train_scenarios": 500,
+  "test_scenarios": 125,
+  "split": "GroupShuffleSplit by scenario_id; no same scenario in both sets",
+  "features": [
+    "hour",
+    "minute",
+    "day",
+    "floor",
+    "zone",
+    "length_m",
+    "width_m",
+    "event_pressure",
+    "estimated_flow_15m",
+    "comfortable_capacity_15m"
+  ],
+  "metrics": {
+    "random_forest": {
+      "mae": 0.04347,
+      "rmse": 0.10552,
+      "r2": 0.83918
+    },
+    "no_crowd_baseline": {
+      "mae": 0.0892,
+      "rmse": 0.27782
+    },
+    "train_median_baseline": {
+      "mae": 0.08823,
+      "rmse": 0.27472
+    }
+  },
+  "assumptions": [
+    "Event schedules and capacities are fictional dataset records, assumed repeated daily",
+    "Attendance factors and general visitors are simulated; no real counts",
+    "Corridor widths are design assumptions (not surveyed physical measurements)",
+    "Comfortable bidirectional flow assumed to be 1.25 persons/minute/metre",
+    "Delay multiplier is from load/comfortable capacity plus stochastic variability",
+    "Reported accuracy is on held-out simulator scenarios, NOT measured Expo crowd data"
+  ],
+  "route_calibration_warning": "Ground-truth travel time at Expo requires measurements. Do not describe predicted ETA as real."
+}

@@ -1,0 +1,9 @@
+{
+  "evaluation_type": "held-out simulated travel times, not real measured ETA",
+  "evaluated_journeys": 500,
+  "changed_route_journeys": 23,
+  "mean_simulated_seconds_saved_all": 1.1194,
+  "mean_simulated_seconds_saved_when_changed": 24.3342,
+  "fraction_with_improved_time": 0.04,
+  "fraction_with_worse_time": 0.006
+}

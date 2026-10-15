@@ -1,0 +1,31 @@
+{
+  "status": "simulated",
+  "gates": [
+    {
+      "id": "gate1",
+      "name_ar": "بوابة الدخول 1",
+      "map_node": "3,0",
+      "map_coordinate_system": "conceptual SVG",
+      "qr_payload": "expo2030-demo://location/gate1",
+      "source": "existing application simulation"
+    },
+    {
+      "id": "gate2",
+      "name_ar": "بوابة الدخول 2",
+      "map_node": "3,4",
+      "map_coordinate_system": "conceptual SVG",
+      "qr_payload": "expo2030-demo://location/gate2",
+      "source": "existing application simulation"
+    },
+    {
+      "id": "gate3",
+      "name_ar": "بوابة الدخول 3",
+      "map_node": "3,8",
+      "map_coordinate_system": "conceptual SVG",
+      "qr_payload": "expo2030-demo://location/gate3",
+      "source": "existing application simulation"
+    }
+  ],
+  "initial_visitor_node": "3,8",
+  "note": "QR payloads are suggested future demo IDs; application does not currently scan QR codes"
+}

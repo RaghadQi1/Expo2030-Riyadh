@@ -1,0 +1,3410 @@
+[
+  {
+    "booth_id": "B001",
+    "name_en": "Future AI Lab",
+    "name_ar": "مختبر الذكاء الاصطناعي للمستقبل",
+    "category": "AI & Technology",
+    "description_en": "A fictional Expo demo zone focused on AI, Machine Learning, Robotics. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على AI, Machine Learning, Robotics، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "AI",
+      "Machine Learning",
+      "Robotics",
+      "Data",
+      "Future Technology",
+      "Innovation"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 100,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "jp",
+    "events": [
+      {
+        "event_id": "E001",
+        "booth_id": "B001",
+        "title_en": "Introduction: AI",
+        "title_ar": "مقدمة: AI",
+        "description_en": "A fictional introduction about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "09:30",
+        "end_time": "10:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 30,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E002",
+        "booth_id": "B001",
+        "title_en": "Interactive Workshop: Machine Learning",
+        "title_ar": "ورشة تفاعلية: Machine Learning",
+        "description_en": "A fictional interactive workshop about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 35,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E003",
+        "booth_id": "B001",
+        "title_en": "Expert Talk: Robotics",
+        "title_ar": "جلسة خبراء: Robotics",
+        "description_en": "A fictional expert talk about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 40,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B002",
+    "name_en": "Robotics Arena",
+    "name_ar": "ساحة الروبوتات",
+    "category": "AI & Technology",
+    "description_en": "A fictional Expo demo zone focused on AI, Machine Learning, Robotics. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على AI, Machine Learning, Robotics، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "AI",
+      "Machine Learning",
+      "Robotics",
+      "Data",
+      "Future Technology",
+      "Innovation"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 210,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "kr",
+    "events": [
+      {
+        "event_id": "E004",
+        "booth_id": "B002",
+        "title_en": "Introduction: AI",
+        "title_ar": "مقدمة: AI",
+        "description_en": "A fictional introduction about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 37,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E005",
+        "booth_id": "B002",
+        "title_en": "Interactive Workshop: Machine Learning",
+        "title_ar": "ورشة تفاعلية: Machine Learning",
+        "description_en": "A fictional interactive workshop about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 42,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E006",
+        "booth_id": "B002",
+        "title_en": "Expert Talk: Robotics",
+        "title_ar": "جلسة خبراء: Robotics",
+        "description_en": "A fictional expert talk about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 47,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B003",
+    "name_en": "Data & Analytics Hub",
+    "name_ar": "مركز البيانات والتحليلات",
+    "category": "AI & Technology",
+    "description_en": "A fictional Expo demo zone focused on AI, Machine Learning, Robotics. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على AI, Machine Learning, Robotics، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "AI",
+      "Machine Learning",
+      "Robotics",
+      "Data",
+      "Future Technology",
+      "Innovation"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 320,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "us",
+    "events": [
+      {
+        "event_id": "E007",
+        "booth_id": "B003",
+        "title_en": "Introduction: AI",
+        "title_ar": "مقدمة: AI",
+        "description_en": "A fictional introduction about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "11:30",
+        "end_time": "12:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 44,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E008",
+        "booth_id": "B003",
+        "title_en": "Interactive Workshop: Machine Learning",
+        "title_ar": "ورشة تفاعلية: Machine Learning",
+        "description_en": "A fictional interactive workshop about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 49,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E009",
+        "booth_id": "B003",
+        "title_en": "Expert Talk: Robotics",
+        "title_ar": "جلسة خبراء: Robotics",
+        "description_en": "A fictional expert talk about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 54,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B004",
+    "name_en": "Digital Innovation Lab",
+    "name_ar": "مختبر الابتكار الرقمي",
+    "category": "AI & Technology",
+    "description_en": "A fictional Expo demo zone focused on AI, Machine Learning, Robotics. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على AI, Machine Learning, Robotics، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "AI",
+      "Machine Learning",
+      "Robotics",
+      "Data",
+      "Future Technology",
+      "Innovation"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 430,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "jp",
+    "events": [
+      {
+        "event_id": "E010",
+        "booth_id": "B004",
+        "title_en": "Introduction: AI",
+        "title_ar": "مقدمة: AI",
+        "description_en": "A fictional introduction about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 51,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E011",
+        "booth_id": "B004",
+        "title_en": "Interactive Workshop: Machine Learning",
+        "title_ar": "ورشة تفاعلية: Machine Learning",
+        "description_en": "A fictional interactive workshop about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 56,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E012",
+        "booth_id": "B004",
+        "title_en": "Expert Talk: Robotics",
+        "title_ar": "جلسة خبراء: Robotics",
+        "description_en": "A fictional expert talk about AI, Machine Learning, Robotics, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول AI, Machine Learning, Robotics ومصممة لزوار المعرض.",
+        "category": "AI & Technology",
+        "tags": [
+          "AI",
+          "Machine Learning",
+          "Robotics",
+          "Data",
+          "Future Technology",
+          "Innovation"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 61,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B005",
+    "name_en": "Green Energy Zone",
+    "name_ar": "منطقة الطاقة الخضراء",
+    "category": "Sustainability",
+    "description_en": "A fictional Expo demo zone focused on Sustainability, Climate, Renewable Energy. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Sustainability, Climate, Renewable Energy، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Sustainability",
+      "Climate",
+      "Renewable Energy",
+      "Green Cities",
+      "Environment",
+      "Water"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 540,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "sg",
+    "events": [
+      {
+        "event_id": "E013",
+        "booth_id": "B005",
+        "title_en": "Introduction: Sustainability",
+        "title_ar": "مقدمة: Sustainability",
+        "description_en": "A fictional introduction about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 58,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E014",
+        "booth_id": "B005",
+        "title_en": "Interactive Workshop: Climate",
+        "title_ar": "ورشة تفاعلية: Climate",
+        "description_en": "A fictional interactive workshop about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 63,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E015",
+        "booth_id": "B005",
+        "title_en": "Expert Talk: Renewable Energy",
+        "title_ar": "جلسة خبراء: Renewable Energy",
+        "description_en": "A fictional expert talk about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "09:30",
+        "end_time": "10:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 68,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B006",
+    "name_en": "Future Water Lab",
+    "name_ar": "مختبر المياه المستقبلية",
+    "category": "Sustainability",
+    "description_en": "A fictional Expo demo zone focused on Sustainability, Climate, Renewable Energy. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Sustainability, Climate, Renewable Energy، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Sustainability",
+      "Climate",
+      "Renewable Energy",
+      "Green Cities",
+      "Environment",
+      "Water"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 650,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "ae",
+    "events": [
+      {
+        "event_id": "E016",
+        "booth_id": "B006",
+        "title_en": "Introduction: Sustainability",
+        "title_ar": "مقدمة: Sustainability",
+        "description_en": "A fictional introduction about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 65,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E017",
+        "booth_id": "B006",
+        "title_en": "Interactive Workshop: Climate",
+        "title_ar": "ورشة تفاعلية: Climate",
+        "description_en": "A fictional interactive workshop about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 70,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E018",
+        "booth_id": "B006",
+        "title_en": "Expert Talk: Renewable Energy",
+        "title_ar": "جلسة خبراء: Renewable Energy",
+        "description_en": "A fictional expert talk about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 75,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B007",
+    "name_en": "Circular Economy Hub",
+    "name_ar": "مركز الاقتصاد الدائري",
+    "category": "Sustainability",
+    "description_en": "A fictional Expo demo zone focused on Sustainability, Climate, Renewable Energy. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Sustainability, Climate, Renewable Energy، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Sustainability",
+      "Climate",
+      "Renewable Energy",
+      "Green Cities",
+      "Environment",
+      "Water"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 760,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "de",
+    "events": [
+      {
+        "event_id": "E019",
+        "booth_id": "B007",
+        "title_en": "Introduction: Sustainability",
+        "title_ar": "مقدمة: Sustainability",
+        "description_en": "A fictional introduction about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 72,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E020",
+        "booth_id": "B007",
+        "title_en": "Interactive Workshop: Climate",
+        "title_ar": "ورشة تفاعلية: Climate",
+        "description_en": "A fictional interactive workshop about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 77,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E021",
+        "booth_id": "B007",
+        "title_en": "Expert Talk: Renewable Energy",
+        "title_ar": "جلسة خبراء: Renewable Energy",
+        "description_en": "A fictional expert talk about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "11:30",
+        "end_time": "12:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 82,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B008",
+    "name_en": "Green Cities Pavilion",
+    "name_ar": "جناح المدن الخضراء",
+    "category": "Sustainability",
+    "description_en": "A fictional Expo demo zone focused on Sustainability, Climate, Renewable Energy. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Sustainability, Climate, Renewable Energy، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Sustainability",
+      "Climate",
+      "Renewable Energy",
+      "Green Cities",
+      "Environment",
+      "Water"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 870,
+    "y": 100,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "sg",
+    "events": [
+      {
+        "event_id": "E022",
+        "booth_id": "B008",
+        "title_en": "Introduction: Sustainability",
+        "title_ar": "مقدمة: Sustainability",
+        "description_en": "A fictional introduction about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 79,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E023",
+        "booth_id": "B008",
+        "title_en": "Interactive Workshop: Climate",
+        "title_ar": "ورشة تفاعلية: Climate",
+        "description_en": "A fictional interactive workshop about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "09:30",
+        "end_time": "10:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 84,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E024",
+        "booth_id": "B008",
+        "title_en": "Expert Talk: Renewable Energy",
+        "title_ar": "جلسة خبراء: Renewable Energy",
+        "description_en": "A fictional expert talk about Sustainability, Climate, Renewable Energy, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Sustainability, Climate, Renewable Energy ومصممة لزوار المعرض.",
+        "category": "Sustainability",
+        "tags": [
+          "Sustainability",
+          "Climate",
+          "Renewable Energy",
+          "Green Cities",
+          "Environment",
+          "Water"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 89,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B009",
+    "name_en": "Smart City Command Center",
+    "name_ar": "مركز قيادة المدينة الذكية",
+    "category": "Smart Cities",
+    "description_en": "A fictional Expo demo zone focused on Smart Cities, IoT, Urban Planning. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Smart Cities, IoT, Urban Planning، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Smart Cities",
+      "IoT",
+      "Urban Planning",
+      "Mobility",
+      "Digital Infrastructure"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 100,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "cn",
+    "events": [
+      {
+        "event_id": "E025",
+        "booth_id": "B009",
+        "title_en": "Introduction: Smart Cities",
+        "title_ar": "مقدمة: Smart Cities",
+        "description_en": "A fictional introduction about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 86,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E026",
+        "booth_id": "B009",
+        "title_en": "Interactive Workshop: IoT",
+        "title_ar": "ورشة تفاعلية: IoT",
+        "description_en": "A fictional interactive workshop about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 91,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E027",
+        "booth_id": "B009",
+        "title_en": "Expert Talk: Urban Planning",
+        "title_ar": "جلسة خبراء: Urban Planning",
+        "description_en": "A fictional expert talk about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 96,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B010",
+    "name_en": "Connected City Lab",
+    "name_ar": "مختبر المدينة المتصلة",
+    "category": "Smart Cities",
+    "description_en": "A fictional Expo demo zone focused on Smart Cities, IoT, Urban Planning. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Smart Cities, IoT, Urban Planning، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Smart Cities",
+      "IoT",
+      "Urban Planning",
+      "Mobility",
+      "Digital Infrastructure"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 210,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "uk",
+    "events": [
+      {
+        "event_id": "E028",
+        "booth_id": "B010",
+        "title_en": "Introduction: Smart Cities",
+        "title_ar": "مقدمة: Smart Cities",
+        "description_en": "A fictional introduction about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 93,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E029",
+        "booth_id": "B010",
+        "title_en": "Interactive Workshop: IoT",
+        "title_ar": "ورشة تفاعلية: IoT",
+        "description_en": "A fictional interactive workshop about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "11:30",
+        "end_time": "12:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 98,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E030",
+        "booth_id": "B010",
+        "title_en": "Expert Talk: Urban Planning",
+        "title_ar": "جلسة خبراء: Urban Planning",
+        "description_en": "A fictional expert talk about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 32,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B011",
+    "name_en": "Urban Future Studio",
+    "name_ar": "استوديو مستقبل المدن",
+    "category": "Smart Cities",
+    "description_en": "A fictional Expo demo zone focused on Smart Cities, IoT, Urban Planning. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Smart Cities, IoT, Urban Planning، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Smart Cities",
+      "IoT",
+      "Urban Planning",
+      "Mobility",
+      "Digital Infrastructure"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 320,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "cn",
+    "events": [
+      {
+        "event_id": "E031",
+        "booth_id": "B011",
+        "title_en": "Introduction: Smart Cities",
+        "title_ar": "مقدمة: Smart Cities",
+        "description_en": "A fictional introduction about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "09:30",
+        "end_time": "10:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 100,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E032",
+        "booth_id": "B011",
+        "title_en": "Interactive Workshop: IoT",
+        "title_ar": "ورشة تفاعلية: IoT",
+        "description_en": "A fictional interactive workshop about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 34,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E033",
+        "booth_id": "B011",
+        "title_en": "Expert Talk: Urban Planning",
+        "title_ar": "جلسة خبراء: Urban Planning",
+        "description_en": "A fictional expert talk about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 39,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B012",
+    "name_en": "Digital Infrastructure Hub",
+    "name_ar": "مركز البنية التحتية الرقمية",
+    "category": "Smart Cities",
+    "description_en": "A fictional Expo demo zone focused on Smart Cities, IoT, Urban Planning. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Smart Cities, IoT, Urban Planning، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Smart Cities",
+      "IoT",
+      "Urban Planning",
+      "Mobility",
+      "Digital Infrastructure"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 430,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "uk",
+    "events": [
+      {
+        "event_id": "E034",
+        "booth_id": "B012",
+        "title_en": "Introduction: Smart Cities",
+        "title_ar": "مقدمة: Smart Cities",
+        "description_en": "A fictional introduction about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 36,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E035",
+        "booth_id": "B012",
+        "title_en": "Interactive Workshop: IoT",
+        "title_ar": "ورشة تفاعلية: IoT",
+        "description_en": "A fictional interactive workshop about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 41,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E036",
+        "booth_id": "B012",
+        "title_en": "Expert Talk: Urban Planning",
+        "title_ar": "جلسة خبراء: Urban Planning",
+        "description_en": "A fictional expert talk about Smart Cities, IoT, Urban Planning, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Smart Cities, IoT, Urban Planning ومصممة لزوار المعرض.",
+        "category": "Smart Cities",
+        "tags": [
+          "Smart Cities",
+          "IoT",
+          "Urban Planning",
+          "Mobility",
+          "Digital Infrastructure"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 46,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B013",
+    "name_en": "Saudi Heritage Pavilion",
+    "name_ar": "جناح التراث السعودي",
+    "category": "Culture",
+    "description_en": "A fictional Expo demo zone focused on Culture, Heritage, Arts. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Culture, Heritage, Arts، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Culture",
+      "Heritage",
+      "Arts",
+      "Saudi Culture",
+      "Crafts",
+      "History"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 540,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "sa",
+    "events": [
+      {
+        "event_id": "E037",
+        "booth_id": "B013",
+        "title_en": "Introduction: Culture",
+        "title_ar": "مقدمة: Culture",
+        "description_en": "A fictional introduction about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "11:30",
+        "end_time": "12:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 43,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E038",
+        "booth_id": "B013",
+        "title_en": "Interactive Workshop: Heritage",
+        "title_ar": "ورشة تفاعلية: Heritage",
+        "description_en": "A fictional interactive workshop about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 48,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E039",
+        "booth_id": "B013",
+        "title_en": "Expert Talk: Arts",
+        "title_ar": "جلسة خبراء: Arts",
+        "description_en": "A fictional expert talk about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 53,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B014",
+    "name_en": "Saudi Arts House",
+    "name_ar": "بيت الفنون السعودية",
+    "category": "Culture",
+    "description_en": "A fictional Expo demo zone focused on Culture, Heritage, Arts. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Culture, Heritage, Arts، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Culture",
+      "Heritage",
+      "Arts",
+      "Saudi Culture",
+      "Crafts",
+      "History"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 650,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "sa",
+    "events": [
+      {
+        "event_id": "E040",
+        "booth_id": "B014",
+        "title_en": "Introduction: Culture",
+        "title_ar": "مقدمة: Culture",
+        "description_en": "A fictional introduction about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 50,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E041",
+        "booth_id": "B014",
+        "title_en": "Interactive Workshop: Heritage",
+        "title_ar": "ورشة تفاعلية: Heritage",
+        "description_en": "A fictional interactive workshop about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 55,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E042",
+        "booth_id": "B014",
+        "title_en": "Expert Talk: Arts",
+        "title_ar": "جلسة خبراء: Arts",
+        "description_en": "A fictional expert talk about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 60,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B015",
+    "name_en": "Crafts & Design Market",
+    "name_ar": "سوق الحرف والتصميم",
+    "category": "Culture",
+    "description_en": "A fictional Expo demo zone focused on Culture, Heritage, Arts. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Culture, Heritage, Arts، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Culture",
+      "Heritage",
+      "Arts",
+      "Saudi Culture",
+      "Crafts",
+      "History"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 760,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "sa",
+    "events": [
+      {
+        "event_id": "E043",
+        "booth_id": "B015",
+        "title_en": "Introduction: Culture",
+        "title_ar": "مقدمة: Culture",
+        "description_en": "A fictional introduction about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 57,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E044",
+        "booth_id": "B015",
+        "title_en": "Interactive Workshop: Heritage",
+        "title_ar": "ورشة تفاعلية: Heritage",
+        "description_en": "A fictional interactive workshop about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 62,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E045",
+        "booth_id": "B015",
+        "title_en": "Expert Talk: Arts",
+        "title_ar": "جلسة خبراء: Arts",
+        "description_en": "A fictional expert talk about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "09:30",
+        "end_time": "10:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 67,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B016",
+    "name_en": "Future Museum Experience",
+    "name_ar": "تجربة المتحف المستقبلي",
+    "category": "Culture",
+    "description_en": "A fictional Expo demo zone focused on Culture, Heritage, Arts. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Culture, Heritage, Arts، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Culture",
+      "Heritage",
+      "Arts",
+      "Saudi Culture",
+      "Crafts",
+      "History"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 870,
+    "y": 220,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "sa",
+    "events": [
+      {
+        "event_id": "E046",
+        "booth_id": "B016",
+        "title_en": "Introduction: Culture",
+        "title_ar": "مقدمة: Culture",
+        "description_en": "A fictional introduction about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 64,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E047",
+        "booth_id": "B016",
+        "title_en": "Interactive Workshop: Heritage",
+        "title_ar": "ورشة تفاعلية: Heritage",
+        "description_en": "A fictional interactive workshop about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 69,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E048",
+        "booth_id": "B016",
+        "title_en": "Expert Talk: Arts",
+        "title_ar": "جلسة خبراء: Arts",
+        "description_en": "A fictional expert talk about Culture, Heritage, Arts, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Culture, Heritage, Arts ومصممة لزوار المعرض.",
+        "category": "Culture",
+        "tags": [
+          "Culture",
+          "Heritage",
+          "Arts",
+          "Saudi Culture",
+          "Crafts",
+          "History"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 74,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B017",
+    "name_en": "Startup Founders Hub",
+    "name_ar": "مركز رواد الأعمال",
+    "category": "Business",
+    "description_en": "A fictional Expo demo zone focused on Business, Entrepreneurship, Investment. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Business, Entrepreneurship, Investment، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Business",
+      "Entrepreneurship",
+      "Investment",
+      "Startups",
+      "Economy",
+      "Future Jobs"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 100,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "ae",
+    "events": [
+      {
+        "event_id": "E049",
+        "booth_id": "B017",
+        "title_en": "Introduction: Business",
+        "title_ar": "مقدمة: Business",
+        "description_en": "A fictional introduction about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 71,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E050",
+        "booth_id": "B017",
+        "title_en": "Interactive Workshop: Entrepreneurship",
+        "title_ar": "ورشة تفاعلية: Entrepreneurship",
+        "description_en": "A fictional interactive workshop about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 76,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E051",
+        "booth_id": "B017",
+        "title_en": "Expert Talk: Investment",
+        "title_ar": "جلسة خبراء: Investment",
+        "description_en": "A fictional expert talk about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "11:30",
+        "end_time": "12:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 81,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B018",
+    "name_en": "Future Investment Forum",
+    "name_ar": "منتدى الاستثمار المستقبلي",
+    "category": "Business",
+    "description_en": "A fictional Expo demo zone focused on Business, Entrepreneurship, Investment. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Business, Entrepreneurship, Investment، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Business",
+      "Entrepreneurship",
+      "Investment",
+      "Startups",
+      "Economy",
+      "Future Jobs"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 210,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "us",
+    "events": [
+      {
+        "event_id": "E052",
+        "booth_id": "B018",
+        "title_en": "Introduction: Business",
+        "title_ar": "مقدمة: Business",
+        "description_en": "A fictional introduction about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 78,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E053",
+        "booth_id": "B018",
+        "title_en": "Interactive Workshop: Entrepreneurship",
+        "title_ar": "ورشة تفاعلية: Entrepreneurship",
+        "description_en": "A fictional interactive workshop about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "09:30",
+        "end_time": "10:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 83,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E054",
+        "booth_id": "B018",
+        "title_en": "Expert Talk: Investment",
+        "title_ar": "جلسة خبراء: Investment",
+        "description_en": "A fictional expert talk about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 88,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B019",
+    "name_en": "Future Jobs Center",
+    "name_ar": "مركز وظائف المستقبل",
+    "category": "Business",
+    "description_en": "A fictional Expo demo zone focused on Business, Entrepreneurship, Investment. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Business, Entrepreneurship, Investment، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Business",
+      "Entrepreneurship",
+      "Investment",
+      "Startups",
+      "Economy",
+      "Future Jobs"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 320,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "ae",
+    "events": [
+      {
+        "event_id": "E055",
+        "booth_id": "B019",
+        "title_en": "Introduction: Business",
+        "title_ar": "مقدمة: Business",
+        "description_en": "A fictional introduction about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 85,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E056",
+        "booth_id": "B019",
+        "title_en": "Interactive Workshop: Entrepreneurship",
+        "title_ar": "ورشة تفاعلية: Entrepreneurship",
+        "description_en": "A fictional interactive workshop about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 90,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E057",
+        "booth_id": "B019",
+        "title_en": "Expert Talk: Investment",
+        "title_ar": "جلسة خبراء: Investment",
+        "description_en": "A fictional expert talk about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 95,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B020",
+    "name_en": "Entrepreneurship Studio",
+    "name_ar": "استوديو ريادة الأعمال",
+    "category": "Business",
+    "description_en": "A fictional Expo demo zone focused on Business, Entrepreneurship, Investment. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Business, Entrepreneurship, Investment، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Business",
+      "Entrepreneurship",
+      "Investment",
+      "Startups",
+      "Economy",
+      "Future Jobs"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 430,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "uk",
+    "events": [
+      {
+        "event_id": "E058",
+        "booth_id": "B020",
+        "title_en": "Introduction: Business",
+        "title_ar": "مقدمة: Business",
+        "description_en": "A fictional introduction about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 92,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E059",
+        "booth_id": "B020",
+        "title_en": "Interactive Workshop: Entrepreneurship",
+        "title_ar": "ورشة تفاعلية: Entrepreneurship",
+        "description_en": "A fictional interactive workshop about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "11:30",
+        "end_time": "12:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 97,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E060",
+        "booth_id": "B020",
+        "title_en": "Expert Talk: Investment",
+        "title_ar": "جلسة خبراء: Investment",
+        "description_en": "A fictional expert talk about Business, Entrepreneurship, Investment, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Business, Entrepreneurship, Investment ومصممة لزوار المعرض.",
+        "category": "Business",
+        "tags": [
+          "Business",
+          "Entrepreneurship",
+          "Investment",
+          "Startups",
+          "Economy",
+          "Future Jobs"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 31,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B021",
+    "name_en": "Smart Mobility Lab",
+    "name_ar": "مختبر التنقل الذكي",
+    "category": "Mobility",
+    "description_en": "A fictional Expo demo zone focused on Mobility, Transport, Electric Vehicles. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Mobility, Transport, Electric Vehicles، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Mobility",
+      "Transport",
+      "Electric Vehicles",
+      "Autonomous Vehicles",
+      "Logistics"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 540,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "kr",
+    "events": [
+      {
+        "event_id": "E061",
+        "booth_id": "B021",
+        "title_en": "Introduction: Mobility",
+        "title_ar": "مقدمة: Mobility",
+        "description_en": "A fictional introduction about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "09:30",
+        "end_time": "10:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 99,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E062",
+        "booth_id": "B021",
+        "title_en": "Interactive Workshop: Transport",
+        "title_ar": "ورشة تفاعلية: Transport",
+        "description_en": "A fictional interactive workshop about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 33,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E063",
+        "booth_id": "B021",
+        "title_en": "Expert Talk: Electric Vehicles",
+        "title_ar": "جلسة خبراء: Electric Vehicles",
+        "description_en": "A fictional expert talk about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 38,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B022",
+    "name_en": "Electric Mobility Zone",
+    "name_ar": "منطقة التنقل الكهربائي",
+    "category": "Mobility",
+    "description_en": "A fictional Expo demo zone focused on Mobility, Transport, Electric Vehicles. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Mobility, Transport, Electric Vehicles، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Mobility",
+      "Transport",
+      "Electric Vehicles",
+      "Autonomous Vehicles",
+      "Logistics"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 650,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "de",
+    "events": [
+      {
+        "event_id": "E064",
+        "booth_id": "B022",
+        "title_en": "Introduction: Mobility",
+        "title_ar": "مقدمة: Mobility",
+        "description_en": "A fictional introduction about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 35,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E065",
+        "booth_id": "B022",
+        "title_en": "Interactive Workshop: Transport",
+        "title_ar": "ورشة تفاعلية: Transport",
+        "description_en": "A fictional interactive workshop about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 40,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E066",
+        "booth_id": "B022",
+        "title_en": "Expert Talk: Electric Vehicles",
+        "title_ar": "جلسة خبراء: Electric Vehicles",
+        "description_en": "A fictional expert talk about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 45,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B023",
+    "name_en": "Autonomous Transport Arena",
+    "name_ar": "ساحة النقل الذاتي",
+    "category": "Mobility",
+    "description_en": "A fictional Expo demo zone focused on Mobility, Transport, Electric Vehicles. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Mobility, Transport, Electric Vehicles، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Mobility",
+      "Transport",
+      "Electric Vehicles",
+      "Autonomous Vehicles",
+      "Logistics"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 760,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "kr",
+    "events": [
+      {
+        "event_id": "E067",
+        "booth_id": "B023",
+        "title_en": "Introduction: Mobility",
+        "title_ar": "مقدمة: Mobility",
+        "description_en": "A fictional introduction about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "11:30",
+        "end_time": "12:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 42,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E068",
+        "booth_id": "B023",
+        "title_en": "Interactive Workshop: Transport",
+        "title_ar": "ورشة تفاعلية: Transport",
+        "description_en": "A fictional interactive workshop about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 47,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E069",
+        "booth_id": "B023",
+        "title_en": "Expert Talk: Electric Vehicles",
+        "title_ar": "جلسة خبراء: Electric Vehicles",
+        "description_en": "A fictional expert talk about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 52,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B024",
+    "name_en": "Logistics Innovation Hub",
+    "name_ar": "مركز ابتكار الخدمات اللوجستية",
+    "category": "Mobility",
+    "description_en": "A fictional Expo demo zone focused on Mobility, Transport, Electric Vehicles. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Mobility, Transport, Electric Vehicles، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Mobility",
+      "Transport",
+      "Electric Vehicles",
+      "Autonomous Vehicles",
+      "Logistics"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 870,
+    "y": 340,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "de",
+    "events": [
+      {
+        "event_id": "E070",
+        "booth_id": "B024",
+        "title_en": "Introduction: Mobility",
+        "title_ar": "مقدمة: Mobility",
+        "description_en": "A fictional introduction about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 49,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E071",
+        "booth_id": "B024",
+        "title_en": "Interactive Workshop: Transport",
+        "title_ar": "ورشة تفاعلية: Transport",
+        "description_en": "A fictional interactive workshop about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 54,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E072",
+        "booth_id": "B024",
+        "title_en": "Expert Talk: Electric Vehicles",
+        "title_ar": "جلسة خبراء: Electric Vehicles",
+        "description_en": "A fictional expert talk about Mobility, Transport, Electric Vehicles, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Mobility, Transport, Electric Vehicles ومصممة لزوار المعرض.",
+        "category": "Mobility",
+        "tags": [
+          "Mobility",
+          "Transport",
+          "Electric Vehicles",
+          "Autonomous Vehicles",
+          "Logistics"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 59,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B025",
+    "name_en": "Digital Health Lab",
+    "name_ar": "مختبر الصحة الرقمية",
+    "category": "Health & Wellbeing",
+    "description_en": "A fictional Expo demo zone focused on Health, Wellbeing, Healthcare Technology. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Health, Wellbeing, Healthcare Technology، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Health",
+      "Wellbeing",
+      "Healthcare Technology",
+      "Sports",
+      "Healthy Cities"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 100,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "eg",
+    "events": [
+      {
+        "event_id": "E073",
+        "booth_id": "B025",
+        "title_en": "Introduction: Health",
+        "title_ar": "مقدمة: Health",
+        "description_en": "A fictional introduction about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 56,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E074",
+        "booth_id": "B025",
+        "title_en": "Interactive Workshop: Wellbeing",
+        "title_ar": "ورشة تفاعلية: Wellbeing",
+        "description_en": "A fictional interactive workshop about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 61,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E075",
+        "booth_id": "B025",
+        "title_en": "Expert Talk: Healthcare Technology",
+        "title_ar": "جلسة خبراء: Healthcare Technology",
+        "description_en": "A fictional expert talk about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "09:30",
+        "end_time": "10:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 66,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B026",
+    "name_en": "Healthy Cities Pavilion",
+    "name_ar": "جناح المدن الصحية",
+    "category": "Health & Wellbeing",
+    "description_en": "A fictional Expo demo zone focused on Health, Wellbeing, Healthcare Technology. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Health, Wellbeing, Healthcare Technology، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Health",
+      "Wellbeing",
+      "Healthcare Technology",
+      "Sports",
+      "Healthy Cities"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 210,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "eg",
+    "events": [
+      {
+        "event_id": "E076",
+        "booth_id": "B026",
+        "title_en": "Introduction: Health",
+        "title_ar": "مقدمة: Health",
+        "description_en": "A fictional introduction about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 63,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E077",
+        "booth_id": "B026",
+        "title_en": "Interactive Workshop: Wellbeing",
+        "title_ar": "ورشة تفاعلية: Wellbeing",
+        "description_en": "A fictional interactive workshop about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 68,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E078",
+        "booth_id": "B026",
+        "title_en": "Expert Talk: Healthcare Technology",
+        "title_ar": "جلسة خبراء: Healthcare Technology",
+        "description_en": "A fictional expert talk about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 73,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B027",
+    "name_en": "Sports Technology Zone",
+    "name_ar": "منطقة التقنية الرياضية",
+    "category": "Health & Wellbeing",
+    "description_en": "A fictional Expo demo zone focused on Health, Wellbeing, Healthcare Technology. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Health, Wellbeing, Healthcare Technology، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Health",
+      "Wellbeing",
+      "Healthcare Technology",
+      "Sports",
+      "Healthy Cities"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 320,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "sg",
+    "events": [
+      {
+        "event_id": "E079",
+        "booth_id": "B027",
+        "title_en": "Introduction: Health",
+        "title_ar": "مقدمة: Health",
+        "description_en": "A fictional introduction about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 70,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E080",
+        "booth_id": "B027",
+        "title_en": "Interactive Workshop: Wellbeing",
+        "title_ar": "ورشة تفاعلية: Wellbeing",
+        "description_en": "A fictional interactive workshop about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 75,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E081",
+        "booth_id": "B027",
+        "title_en": "Expert Talk: Healthcare Technology",
+        "title_ar": "جلسة خبراء: Healthcare Technology",
+        "description_en": "A fictional expert talk about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "11:30",
+        "end_time": "12:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 80,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B028",
+    "name_en": "Wellbeing Experience",
+    "name_ar": "تجربة جودة الحياة",
+    "category": "Health & Wellbeing",
+    "description_en": "A fictional Expo demo zone focused on Health, Wellbeing, Healthcare Technology. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Health, Wellbeing, Healthcare Technology، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Health",
+      "Wellbeing",
+      "Healthcare Technology",
+      "Sports",
+      "Healthy Cities"
+    ],
+    "hall": "Hall C",
+    "floor": 1,
+    "x": 430,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "us",
+    "events": [
+      {
+        "event_id": "E082",
+        "booth_id": "B028",
+        "title_en": "Introduction: Health",
+        "title_ar": "مقدمة: Health",
+        "description_en": "A fictional introduction about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 77,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E083",
+        "booth_id": "B028",
+        "title_en": "Interactive Workshop: Wellbeing",
+        "title_ar": "ورشة تفاعلية: Wellbeing",
+        "description_en": "A fictional interactive workshop about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "09:30",
+        "end_time": "10:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 82,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E084",
+        "booth_id": "B028",
+        "title_en": "Expert Talk: Healthcare Technology",
+        "title_ar": "جلسة خبراء: Healthcare Technology",
+        "description_en": "A fictional expert talk about Health, Wellbeing, Healthcare Technology, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Health, Wellbeing, Healthcare Technology ومصممة لزوار المعرض.",
+        "category": "Health & Wellbeing",
+        "tags": [
+          "Health",
+          "Wellbeing",
+          "Healthcare Technology",
+          "Sports",
+          "Healthy Cities"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:10",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 87,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B029",
+    "name_en": "Future Learning Lab",
+    "name_ar": "مختبر التعلم المستقبلي",
+    "category": "Education",
+    "description_en": "A fictional Expo demo zone focused on Education, EdTech, Skills. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Education, EdTech, Skills، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Education",
+      "EdTech",
+      "Skills",
+      "Youth",
+      "Learning",
+      "Research"
+    ],
+    "hall": "Hall D",
+    "floor": 2,
+    "x": 540,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "fr",
+    "events": [
+      {
+        "event_id": "E085",
+        "booth_id": "B029",
+        "title_en": "Introduction: Education",
+        "title_ar": "مقدمة: Education",
+        "description_en": "A fictional introduction about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 84,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E086",
+        "booth_id": "B029",
+        "title_en": "Interactive Workshop: EdTech",
+        "title_ar": "ورشة تفاعلية: EdTech",
+        "description_en": "A fictional interactive workshop about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 89,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E087",
+        "booth_id": "B029",
+        "title_en": "Expert Talk: Skills",
+        "title_ar": "جلسة خبراء: Skills",
+        "description_en": "A fictional expert talk about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 94,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B030",
+    "name_en": "EdTech Innovation Hub",
+    "name_ar": "مركز ابتكار تقنيات التعليم",
+    "category": "Education",
+    "description_en": "A fictional Expo demo zone focused on Education, EdTech, Skills. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Education, EdTech, Skills، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Education",
+      "EdTech",
+      "Skills",
+      "Youth",
+      "Learning",
+      "Research"
+    ],
+    "hall": "Hall E",
+    "floor": 2,
+    "x": 650,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "it",
+    "events": [
+      {
+        "event_id": "E088",
+        "booth_id": "B030",
+        "title_en": "Introduction: Education",
+        "title_ar": "مقدمة: Education",
+        "description_en": "A fictional introduction about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:30",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 91,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E089",
+        "booth_id": "B030",
+        "title_en": "Interactive Workshop: EdTech",
+        "title_ar": "ورشة تفاعلية: EdTech",
+        "description_en": "A fictional interactive workshop about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "11:30",
+        "end_time": "12:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 96,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E090",
+        "booth_id": "B030",
+        "title_en": "Expert Talk: Skills",
+        "title_ar": "جلسة خبراء: Skills",
+        "description_en": "A fictional expert talk about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 30,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B031",
+    "name_en": "Youth Skills Studio",
+    "name_ar": "استوديو مهارات الشباب",
+    "category": "Education",
+    "description_en": "A fictional Expo demo zone focused on Education, EdTech, Skills. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Education, EdTech, Skills، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Education",
+      "EdTech",
+      "Skills",
+      "Youth",
+      "Learning",
+      "Research"
+    ],
+    "hall": "Hall A",
+    "floor": 1,
+    "x": 760,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "fr",
+    "events": [
+      {
+        "event_id": "E091",
+        "booth_id": "B031",
+        "title_en": "Introduction: Education",
+        "title_ar": "مقدمة: Education",
+        "description_en": "A fictional introduction about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "09:30",
+        "end_time": "10:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 98,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E092",
+        "booth_id": "B031",
+        "title_en": "Interactive Workshop: EdTech",
+        "title_ar": "ورشة تفاعلية: EdTech",
+        "description_en": "A fictional interactive workshop about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:15",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 32,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E093",
+        "booth_id": "B031",
+        "title_en": "Expert Talk: Skills",
+        "title_ar": "جلسة خبراء: Skills",
+        "description_en": "A fictional expert talk about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 37,
+        "level": "General"
+      }
+    ]
+  },
+  {
+    "booth_id": "B032",
+    "name_en": "Research & Knowledge Center",
+    "name_ar": "مركز البحث والمعرفة",
+    "category": "Education",
+    "description_en": "A fictional Expo demo zone focused on Education, EdTech, Skills. Visitors can explore exhibits, talks and interactive experiences.",
+    "description_ar": "منطقة تجريبية افتراضية في المعرض تركز على Education, EdTech, Skills، وتضم تجارب وفعاليات تفاعلية.",
+    "interests": [
+      "Education",
+      "EdTech",
+      "Skills",
+      "Youth",
+      "Learning",
+      "Research"
+    ],
+    "hall": "Hall B",
+    "floor": 1,
+    "x": 870,
+    "y": 460,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "accessibility": [
+      "Wheelchair accessible",
+      "Arabic support",
+      "English support"
+    ],
+    "assigned_pavilion_id": "it",
+    "events": [
+      {
+        "event_id": "E094",
+        "booth_id": "B032",
+        "title_en": "Introduction: Education",
+        "title_ar": "مقدمة: Education",
+        "description_en": "A fictional introduction about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:00",
+        "duration_minutes": 30,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 34,
+        "level": "Beginner"
+      },
+      {
+        "event_id": "E095",
+        "booth_id": "B032",
+        "title_en": "Interactive Workshop: EdTech",
+        "title_ar": "ورشة تفاعلية: EdTech",
+        "description_en": "A fictional interactive workshop about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:45",
+        "duration_minutes": 45,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 39,
+        "level": "Intermediate"
+      },
+      {
+        "event_id": "E096",
+        "booth_id": "B032",
+        "title_en": "Expert Talk: Skills",
+        "title_ar": "جلسة خبراء: Skills",
+        "description_en": "A fictional expert talk about Education, EdTech, Skills, designed for Expo visitors.",
+        "description_ar": "فعالية افتراضية حول Education, EdTech, Skills ومصممة لزوار المعرض.",
+        "category": "Education",
+        "tags": [
+          "Education",
+          "EdTech",
+          "Skills",
+          "Youth",
+          "Learning",
+          "Research"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:40",
+        "duration_minutes": 40,
+        "languages": [
+          "ar",
+          "en"
+        ],
+        "capacity": 44,
+        "level": "General"
+      }
+    ]
+  }
+]
